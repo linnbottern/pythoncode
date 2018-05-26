@@ -1,4 +1,4 @@
-eg: # My microservice!
+# My microservice!
 import requests
 from flask import Flask
 from flask import render_template
